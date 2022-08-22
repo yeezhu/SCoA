@@ -1,0 +1,142 @@
+air conditioner
+alarm clock
+archway
+backpack
+bag
+ball
+banister
+bar
+barrel
+basket
+bathtub
+bed
+bench
+bicycle
+bin
+blackboard
+blanket
+blinds
+book
+bookshelf
+bottle
+briefcase
+broom
+bucket
+cabinet
+calendar
+candlestick
+centerpiece
+chair
+chandelier
+chimney
+cleaner
+clock
+clothes
+coffee machine
+computer
+container
+corridor
+crib
+cup
+curtain
+desk
+dishwasher
+display case
+doll
+door
+doorway
+drawer
+dresser
+drum
+electric box
+exercise equipment
+fan
+fire alarm
+fire extinguisher
+fireplace
+fish tank
+floor mat
+flower pot
+fridge
+foosball table
+footrest
+furnace
+garage door
+garbage bin
+gate
+guitar
+hanger
+hallway
+headboard
+heater
+ironing board
+jug
+keyboard
+kitchen island
+ladder
+lamp
+lampshade
+laptop
+laundry basket
+light
+light switch
+microwave
+mirror
+monitor
+nightstand
+ottoman
+oven
+piano
+pillow
+ping pong table
+placemat
+plant
+playpen
+pool table
+pot
+printer
+projector
+railing
+range hood
+refrigerator
+rug
+scarf
+screen
+sculpture
+security camera
+sewing machine
+shelves
+shoe
+shower curtain
+shower head
+sink
+soap
+sofa
+stairs
+staircase
+step stool
+stones
+stove
+table
+teapot
+telephone
+telescope
+television
+toaster
+toilet
+towel
+toy
+treadmill
+trophy
+typewriter
+umbrella
+vacuum cleaner
+vase
+wardrobe
+washing machine
+water fountain
+water heater
+whiteboard
+window
+wine rack
+yoga mat
